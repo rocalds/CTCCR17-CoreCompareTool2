@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:atla="http://www.atla.com/metadata/MODSext" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+<marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+ <marc:record>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">The superpowers and the Middle East</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="0" ind2=" ">
+    <marc:subfield code="8">Schnall, David J</marc:subfield>
+    <marc:subfield code="9"></marc:subfield>
+  </marc:datafield>
+<extension displayLabel="Full text">Yes</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield><extension displayLabel="full text collection">Atlas</marc:controlfield>
+¢
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Tradition</marc:subfield>
+  </marc:datafield>
+<part>
+<extent>
+  <marc:datafield tag="944" ind1=" " ind2=" ">
+    <marc:subfield code="a">153-160</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="983" ind1=" " ind2=" ">
+    <marc:subfield code="a"></marc:subfield>
+  </marc:datafield>
+</extent>
+</part>
+<part order="1"><number>15</number>
+<caption>no</caption>
+<number>3</number><text>Fall</text>
+</part>
+<part order="1" displayLabel="year">
+<date>1975</date>
+</part>  <marc:datafield tag="773" ind1="0" ind2=" ">
+    <marc:subfield code="w">ATLA0001957789</marc:subfield>
+  <marc:controlfield tag="003">ATLA</marc:controlfield>
+  <marc:controlfield tag="001">ATLA0001968500</marc:controlfield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">ATLA</marc:subfield>
+    <marc:subfield code="b">eng</marc:subfield>
+    <marc:subfield code="c">ATLA</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="991" ind1=" " ind2=" ">
+    <marc:subfield code="a">article</marc:subfield>
+  </marc:datafield>
+<extension displayLabel="issue key">19750101 00015 00003</marc:controlfield>
+<extension displayLabel="serial ID">ATLA0000003558</marc:controlfield>
+  <marc:controlfield tag="005">20200716121004.0</marc:controlfield>
+  <marc:controlfield tag="008">200716s1975    xx           ||||| eng d</marc:controlfield>
+  <marc:datafield tag="993" ind1=" " ind2=" ">
+    <marc:subfield code="a">rdb</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</marc:collection>

@@ -1,0 +1,134 @@
+£¦¦¦\&temppound;
+¥¦¦¦\&tempyen;
+¢¦¦¦\&tempcent;
+¤¦¦¦\&tempsquare;
+«¦¦¦\&templt;
+»¦¦¦\&tempgt;
+ƒ¦¦¦\&tempfinal;
+‰¦¦¦\&temppermil;
+
+###[cr]¦¦¦[hrt]
+###[lf]¦¦¦[hrt]
+###[hrt][hrt]¦¦¦[hrt]
+
+<mods version="[^"]+">¦¦¦<marc:record>
+<mods>¦¦¦<marc:record>
+<recordIdentifier source="ATLA">¦¦¦<marc:controlfield tag="001">
+<recordContentSource authority="marcorg">¦¦¦<marc:controlfield tag="003">
+<extension displayLabel="update code">¦¦¦<marc:controlfield tag="005">
+<languageTerm authority="[^"]+" type="[^"]+">([^<]+)</languageTerm>¦¦¦<marc:datafield tag="040" ind1=" " ind2=" ">[hrt]    <marc:subfield code="a">ATLA</marc:subfield>[hrt]    <marc:subfield code="b">\1</marc:subfield>[hrt]    <marc:subfield code="c">ATLA</marc:subfield>[hrt]  </marc:datafield>
+<name type="personal">[hrt]      <namePart type="family">([^<]+)</namePart>¦¦¦<marc:datafield tag="700" ind1="0" ind2=" ">[hrt]    <marc:subfield code="8">\1</marc:subfield>[hrt]    <marc:subfield code="9"></marc:subfield>[hrt]  </marc:datafield>
+<name type="personal">[hrt]      <namePart type="given">([^<]+)</namePart>¦¦¦<marc:datafield tag="700" ind1="0" ind2=" ">[hrt]    <marc:subfield code="8">\1</marc:subfield>[hrt]    <marc:subfield code="9"></marc:subfield>[hrt]  </marc:datafield>
+<extension displayLabel="record type">(article)</extension>¦¦¦<marc:datafield tag="991" ind1=" " ind2=" ">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]  </marc:datafield>
+<extension displayLabel="product">([^<]+)</extension>¦¦¦<marc:datafield tag="993" ind1=" " ind2=" ">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]  </marc:datafield>
+
+###End tags
+</mods>¦¦¦</marc:record>
+</recordIdentifier>¦¦¦</marc:controlfield>
+</recordContentSource>¦¦¦</marc:controlfield>
+</extension>¦¦¦</marc:controlfield>
+<modsCollection¦¦¦<marc:collection
+</modsCollection>¦¦¦</marc:collection>
+
+###addition of tag 008
+(<marc:controlfield tag="005">[0-9][0-9])([0-9][0-9][0-9][0-9][0-9][0-9])([^<]+</marc:controlfield>)¦¦¦\1\2\3[hrt]  <marc:controlfield tag="008">\2s¤&nbsp;&nbsp;&nbsp;&nbsp;xx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||||| © d</marc:controlfield>
+(<dateIssued keyDate="[^"]+" encoding="[^"]+">)([^<]+)(</dateIssued>)([^¤]+)¤¦¦¦\1\2\3\4\2
+(<marc:subfield code="b">)(eng)(</marc:subfield>)([^©]+)©¦¦¦\1\2\3\4\2
+
+###Cleanup
+<originInfo>¦¦¦¢
+</originInfo>¦¦¦£
+¢[^£]+£¦¦¦¦¦¦1
+<language>¦¦¦
+</language>¦¦¦
+<physicalDescription>¦¦¦¢
+</physicalDescription>¦¦¦£
+¢[^£]+£¦¦¦¦¦¦1
+<note type="general">[^<]+</note>¦¦¦
+<note type="action">[^<]+</note>¦¦¦
+<location [^>]+>¦¦¦¢
+</location>¦¦¦£
+¢[^£]+£¦¦¦¦¦¦1
+<identifier type="local">([^<]+)</identifier>¦¦¦<marc:datafield tag="773" ind1="0" ind2=" ">[hrt]    <marc:subfield code="w">\1</marc:subfield>
+<identifier [^>]+>[^<]+</identifier>¦¦¦
+<genre>[^<]+</genre>¦¦¦
+<detail [^>]+>¦¦¦
+</detail>¦¦¦
+¢¦¦¦
+<namePart type="termsOfAddress">[^<]+</namePart>¦¦¦
+<namePart type="date">[^<]+</namePart>¦¦¦
+</name>¦¦¦
+
+###remove double--dash and double hrt
+  ¦¦¦¦¦¦1
+[hrt][hrt]¦¦¦¦¦¦1
+
+###indention
+<marc:controlfield ¦¦¦  <marc:controlfield 
+<marc:datafield ¦¦¦  <marc:datafield 
+<marc:subfield ¦¦¦    <marc:subfield 
+</marc:datafield>¦¦¦  </marc:datafield>
+
+###final cleanup
+  </marc:datafield>  <¦¦¦  </marc:datafield>[hrt]<
+<recordInfo>¦¦¦
+</recordInfo>¦¦¦
+<languageOfCataloging>¦¦¦
+</languageOfCataloging>¦¦¦
+[hrt][hrt]¦¦¦¦¦¦1
+<extension displayLabel="in process">[^<]+</marc:controlfield>[hrt]¦¦¦
+</marc:controlfield>  <marc:datafield ¦¦¦</marc:controlfield>[hrt]  <marc:datafield 
+
+###title tag 773
+<list>¦¦¦;list;
+</list>¦¦¦;/list;
+<relatedItem type="host">¦¦¦¢
+</relatedItem>¦¦¦£
+###¢([^£]*)<[^>]+>([^£]*)£¦¦¦¢\1 \2£¦¦¦1
+###¢([^£]*)[hrt]([^£]*)£¦¦¦¢\1 \2£¦¦¦1
+###¢([^£]*)  ([^£]*)£¦¦¦¢\1 \2£[hrt]¦¦¦1
+[hrt][hrt]¦¦¦¦¦¦1
+;list;¦¦¦<list>
+;/list;¦¦¦</list>
+¢ ¦¦¦<marc:datafield tag="773a" ind1="0" ind2=" ">[hrt]    <marc:subfield code="aw">
+ £¦¦¦</marc:subfield>[hrt]</marc:datafield>[hrt]
+(<marc:subfield code="w">[^[hrt]]*) (<list>[^<]+</list>) ([^<]*</marc:subfield>)¦¦¦\1 \3[hrt]\2
+<list>([^<]+)</list>¦¦¦<marc:datafield tag="944" ind1=" " ind2=" ">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]  </marc:datafield>[hrt]  <marc:datafield tag="983" ind1=" " ind2=" ">[hrt]    <marc:subfield code="a"></marc:subfield>[hrt]  </marc:datafield>
+<nonSort>([^<]+)</nonSort>[hrt]<title>¦¦¦<title>\1
+<marc:record>[hrt]<titleInfo>[hrt]<title>([^<]+)</title>[hrt]</titleInfo>¦¦¦<marc:record>[hrt]<marc:datafield tag="245" ind1="0" ind2="0">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]  </marc:datafield>
+<marc:record>[hrt]<titleInfo>[hrt]<title>([^<]+)</title>[hrt]<subTitle>([^<]+)</subTitle>[hrt]</titleInfo>¦¦¦<marc:record>[hrt]<marc:datafield tag="245" ind1="0" ind2="0">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]    <marc:subfield code="b">\2</marc:subfield>[hrt]  </marc:datafield>
+###<marc:record>[hrt]<titleInfo>[hrt]<title>([^<]+)</title>[hrt]<subTitle>([^<]+)</subTitle>[hrt]<partNumber>([^<]+)</partNumber>[hrt]</titleInfo>¦¦¦<marc:record>[hrt]<marc:datafield tag="245" ind1="0" ind2="0">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]    <marc:subfield code="b">\2</marc:subfield>[hrt]  <marc:subfield code="n">\3</marc:subfield>[hrt]</marc:datafield>
+###<marc:record>[hrt]<titleInfo>[hrt]<title>([^<]+)</title>[hrt]<subTitle>([^<]+)</subTitle>[hrt]<partNumber>([^<]+)</partNumber>[hrt]<partName>([^<]+)</partName>[hrt]</titleInfo>¦¦¦<marc:record>[hrt]<marc:datafield tag="245" ind1="0" ind2="0">[hrt]    <marc:subfield code="a">\1</marc:subfield>[hrt]    <marc:subfield code="b">\2</marc:subfield>[hrt]  <marc:subfield code="n">\3</marc:subfield>[hrt]  <marc:subfield code="p">\4</marc:subfield></marc:datafield>
+<titleInfo>¦¦¦<marc:datafield tag="245" ind1="0" ind2="0">[hrt]
+<title>([^<]+)</title>¦¦¦[hrt]    <marc:subfield code="a">\1</marc:subfield>
+<subTitle>([^<]+)</subTitle>¦¦¦    <marc:subfield code="b">\1</marc:subfield>
+<partNumber>([^<]+)</partNumber>¦¦¦<marc:subfield code="n">\1</marc:subfield>
+<partName>([^<]+)</partName>¦¦¦<marc:subfield code="p">\1</marc:subfield>
+</titleInfo>¦¦¦</marc:datafield>
+
+###remove double--dash and double hrt
+  ¦¦¦¦¦¦1
+[hrt][hrt]¦¦¦¦¦¦1
+
+###indention
+<marc:controlfield ¦¦¦  <marc:controlfield 
+<marc:datafield ¦¦¦  <marc:datafield 
+<marc:subfield ¦¦¦    <marc:subfield 
+</marc:datafield>¦¦¦  </marc:datafield>
+
+(  </marc:datafield>)(  <marc:datafield tag="[^"]+")¦¦¦\1[hrt]\2
+(  </marc:datafield>)(  <marc:controlfield tag="[^"]+")¦¦¦\1[hrt]\2
+&nbsp;¦¦¦ 
+[cr][cr]¦¦¦[hrt]
+[lf][lf]¦¦¦[hrt]
+[hrt][hrt]¦¦¦[hrt]
+£¦¦¦
+
+\&temppound;¦¦¦£
+\&tempyen;¦¦¦¥
+\&tempcent;¦¦¦¢
+\&tempsquare;¦¦¦¤
+\&templt;¦¦¦«
+\&tempgt;¦¦¦»
+\&tempfinal;¦¦¦ƒ
+\&temppermil;¦¦¦‰

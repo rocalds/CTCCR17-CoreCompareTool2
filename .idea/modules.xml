@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ATLIN17-MergeMinimalCollection.iml" filepath="$PROJECT_DIR$/.idea/ATLIN17-MergeMinimalCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CTCCR17-CoreCompareTool2/.idea/CTCCR17-CoreCompareTool2.iml" filepath="$PROJECT_DIR$/../CTCCR17-CoreCompareTool2/.idea/CTCCR17-CoreCompareTool2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CTCOB17-AuditTemplateValidationTool/.idea/CTCOB17-AuditTemplateValidationTool.iml" filepath="$PROJECT_DIR$/../CTCOB17-AuditTemplateValidationTool/.idea/CTCOB17-AuditTemplateValidationTool.iml" />
+    </modules>
+  </component>
+</project>
